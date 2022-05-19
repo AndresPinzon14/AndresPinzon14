@@ -26,6 +26,8 @@
   <img align="center" alt=" Brayan | Linkedin" width="24px" src="src/linkedin.png" href="https://www.linkedin.com/in/brayanpinzon14/"/>
   
 </div>
+</details>
+
 
 
 </details>
