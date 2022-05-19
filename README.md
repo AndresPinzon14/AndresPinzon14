@@ -2,6 +2,7 @@
 " -->
 
 <!-- Banner -->
+
 ![Brayan Andrés Pinzón Benavides](src/GitBrayan.gif)
 
 <!-- Hello -->
@@ -14,12 +15,9 @@
 ### Software Engineering Student at the University of Cauca 💻🤓
 
 - 🦾📓 I love challenges and continuous learning.
-- 📱💻  I am currently learning mobile development and improving my skills as web developer.
+- 📱💻 I am currently learning mobile development and improving my skills as web developer.
 - 👾 I am a strtategy game lover.
 - 🤖 I'm really love VsCode.
-
-</details>
-
 
 <!-- Social media -->
 <div align="center">
@@ -29,56 +27,47 @@
   
 </div>
 
+
+</details>
+
 <!-- Projects -->
 <h3 align="center"><img src="./src/programmer.png" width="20px"> Latest Projects <img src="./src/programmer.png" width="20px"> </h3>
 
 <!-- Satori MMA -->
+<table>
 <tr>
-<td>
-<img align="left" alt="SatoriMMA" width="50px" src="./src/SatoriMMA.png" />
-</td>
-<td> <h4 align="left"> <a href="https://github.com/Satori-MMA" target="_blank"><code>Satori MMA - Web Aplication</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
+  <td>
+    <img align="left" alt="SatoriMMA" width="50px" src="./src/SatoriMMA.png" />
+    <h4 align="left"> <a href="https://github.com/Satori-MMA" target="_blank"><code>Satori MMA - Web Aplication</code></a> </h4>
+    <details open>
+      <summary>see more...</summary>
+      A web application for "Satori MMA Pasto" martial arts academy.
+      They can offer courses to their clients.
+    </details> 
+  </td>
 
-    A web application for "Satori MMA Pasto" martial arts academy. 
-    They can offer courses to their clients.
+  <td>
+    <img align="left" alt="Unicauca" width="50px" src="./src/University.png" />
+    <h4 align="left"> <a href="https://github.com/Satori-MMA" target="_blank"><code>Unicauca Repository</code></a> </h4>
+      <details>
+        <summary>see more...</summary>
+      My personal repository of the university of cauca.
+      There are many university projects like "delivery food", simulations of vibes and waves, python exercises and more.
+      </details> 
+  </td>
 
-  </details> </td>
+   <td>
+    <img align="left" alt="Notera App" width="50px" src="./src/Notera.png" />
+    <h4 align="left"> <a href="https://github.com/Notera-App" target="_blank"><code>Notera App</code></a> </h4>
+      <details>
+        <summary>see more...</summary>
+      The approach of a platform presented at the yeapp hackathon.
+      people can take notes in a different way and be able to generate study methods.
+      </details> 
+  </td>
+
 </tr>
-</br>
-<!-- Unicauca -->
-<tr>
-<td>
-<img align="left" alt="Unicauca" width="50px" src="./src/University.png" />
-</td>
-<td> <h4 align="left"> <a href="https://github.com/Satori-MMA" target="_blank"><code>Unicauca Repository</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    My personal repository of the university of cauca. 
-    There are many university projects like "delivery food", simulations of vibes and waves, python exercises and more.
-
-  </details> </td>
-</tr>
-
-<!-- Notera App -->
-
-<tr>
-<td>
-<img align="left" alt="Notera App" width="50px" src="./src/Notera.png" />
-</td>
-<td> <h4 align="left"> <a href="https://github.com/Notera-App" target="_blank"><code>Notera App</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    The approach of a platform presented at the yeapp hackathon.
-    people can take notes in a different way and be able to generate study methods.
-
-  </details> 
-</td>
-</tr>
-
+</table>
 
 <!-- Languages -->
 <h3 align="center"><img src="./src/tools.png" width="20px">  Languages and Tools <img src="./src/tools.png" width="20px"> </h3>
@@ -113,4 +102,5 @@
 </div>
 
 <!-- Funny Animation -->
+
 ![Snake animation](https://github.com/AndresPinzon14/AndresPinzon14/blob/output/github-contribution-grid-snake.svg)
