@@ -49,7 +49,7 @@
     </td>
     <td>
       <img align="center" alt="Unicauca" width="50px" src="./src/University.png" />
-      <h4 align="center"> <a href="https://github.com/Satori-MMA" target="_blank">Unicauca Repository</a> </h4>
+      <h4 align="center"> <a href="https://github.com/MyUnicaucaGit" target="_blank">Unicauca Repository</a> </h4>
         <details>
           <summary>see more...</summary>
         My personal repository of the university of cauca.
