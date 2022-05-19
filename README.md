@@ -18,9 +18,6 @@
 - 👾 I am a strtategy game lover.
 - 🤖 I'm really love VsCode.
 
-</details>
-
-
 <!-- Social media -->
 <div align="center">
 
@@ -28,6 +25,8 @@
   <img align="center" alt=" Brayan | Linkedin" width="24px" src="src/linkedin.png" href="https://www.linkedin.com/in/brayanpinzon14/"/>
   
 </div>
+</details>
+
 
 <!-- Projects -->
 <h3 align="center"><img src="./src/programmer.png" width="20px"> Latest Projects <img src="./src/programmer.png" width="20px"> </h3>
@@ -61,7 +60,7 @@
 
   </details> </td>
 </tr>
-
+</br>
 <!-- Notera App -->
 
 <tr>
