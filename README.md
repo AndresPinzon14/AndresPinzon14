@@ -36,40 +36,37 @@
 <h3 align="center"><img src="./src/programmer.png" width="20px"> Latest Projects <img src="./src/programmer.png" width="20px"> </h3>
 
 <!-- Satori MMA -->
-<table>
-<tr>
-  <td>
-    <img align="left" alt="SatoriMMA" width="50px" src="./src/SatoriMMA.png" />
-    <h4 align="left"> <a href="https://github.com/Satori-MMA" target="_blank"><code>Satori MMA - Web Aplication</code></a> </h4>
-    <details open>
-      <summary>see more...</summary>
-      A web application for "Satori MMA Pasto" martial arts academy.
-      They can offer courses to their clients.
-    </details> 
-  </td>
-
-  <td>
-    <img align="left" alt="Unicauca" width="50px" src="./src/University.png" />
-    <h4 align="left"> <a href="https://github.com/Satori-MMA" target="_blank"><code>Unicauca Repository</code></a> </h4>
-      <details>
+  <table>
+  <tr>
+    <td>
+      <img align="center" alt="SatoriMMA" width="50px" src="./src/SatoriMMA.png" />
+      <h4 align="center"> <a href="https://github.com/Satori-MMA" target="_blank">Satori MMA - Web Aplication</a> </h4>
+      <details open>
         <summary>see more...</summary>
-      My personal repository of the university of cauca.
-      There are many university projects like "delivery food", simulations of vibes and waves, python exercises and more.
-      </details> 
-  </td>
-
-   <td>
-    <img align="left" alt="Notera App" width="50px" src="./src/Notera.png" />
-    <h4 align="left"> <a href="https://github.com/Notera-App" target="_blank"><code>Notera App</code></a> </h4>
-      <details>
-        <summary>see more...</summary>
-      The approach of a platform presented at the yeapp hackathon.
-      people can take notes in a different way and be able to generate study methods.
-      </details> 
-  </td>
-
-</tr>
-</table>
+        A web application for "Satori MMA Pasto" martial arts academy.
+        They can offer courses to their clients.
+      </details>
+    </td>
+    <td>
+      <img align="center" alt="Unicauca" width="50px" src="./src/University.png" />
+      <h4 align="center"> <a href="https://github.com/Satori-MMA" target="_blank">Unicauca Repository</a> </h4>
+        <details>
+          <summary>see more...</summary>
+        My personal repository of the university of cauca.
+        There are many university projects like "delivery food", simulations of vibes and waves, python exercises and more.
+        </details>
+    </td>
+     <td>
+      <img align="center" alt="Notera App" width="50px" src="./src/Notera.png" />
+      <h4 align="center"><a href="https://github.com/Notera-App" target="_blank">Notera App</a></h4>
+        <details>
+          <summary>see more...</summary>
+        The approach of a platform presented at the yeapp hackathon.
+        people can take notes in a different way and be able to generate study methods.
+        </details>
+    </td>
+  </tr>
+  </table>
 
 <!-- Languages -->
 <h3 align="center"><img src="./src/tools.png" width="20px">  Languages and Tools <img src="./src/tools.png" width="20px"> </h3>
