@@ -6,7 +6,11 @@
 ![Brayan Andrés Pinzón Benavides](src/GitBrayan.gif)
 
 <!-- Hello -->
-<h1 align="center">< Hello_World /> I'm Brayan - Software Engineering Student [<img src="./src/wave.gif" width="30px"></h1>][github]
+<h1 align="center">< Hello_World /> I'm Brayan - Software Engineering Student
+
+[<img src="./src/wave.gif" width="30px">[github]
+
+</h1>]
 
 <!-- About Me -->
 <details>
@@ -22,10 +26,9 @@
 <!-- Social media -->
 <div align="center">
 
-  
   [<img align="center" alt="Brayan | Instagram" width="22px" src="src/instagram.png"/>][instagram]
   [<img align="center" alt=" Brayan | Linkedin" width="24px" src="src/linkedin.png"/>][linkedin]
-  
+
 </div>
 </details>
 
@@ -34,13 +37,21 @@
 </details>
 
 <!-- Projects -->
-<h3 align="center">[<img src="./src/programmer.png" width="20px">][github] Latest Projects [<img src="./src/programmer.png" width="20px"> </h3>][github]
+<h3 align="center">
+
+[<img src="./src/programmer.png" width="20px">][github] 
+
+Latest Projects 
+
+[<img src="./src/programmer.png" width="20px"> </h3>][github]
 
 <!-- Satori MMA -->
   <table>
   <tr>
+    <td>    
+      [<img align="center" alt="SatoriMMA" width="50px" src="./src/SatoriMMA.png"/>][satori]
+    </td>
     <td>
-      [<img align="center" alt="SatoriMMA" width="50px" src="./src/SatoriMMA.png" />][satori]
       <h4 align="center"> <a href="https://github.com/Satori-MMA" target="_blank">Satori MMA - Web Aplication</a> </h4>
       <details open>
         <summary>see more...</summary>
@@ -72,8 +83,8 @@
 <!-- Languages -->
 <h3 align="center">[<img src="./src/tools.png" width="20px">][github]  Languages and Tools [<img src="./src/tools.png" width="20px">][github]</h3>
 <p align="center">
-    [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> ][badges]
-    [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> ][badges]
+    [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>][badges]
+    [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>][badges]
     [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> ][badges]
     [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> ][badges]
     [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>][badges]
@@ -105,12 +116,11 @@
 
 ![Snake animation](https://github.com/AndresPinzon14/AndresPinzon14/blob/output/github-contribution-grid-snake.svg)
 
-
 [instagram]:https://www.instagram.com/brayan_andres.14/
-[linkedin]: https://www.linkedin.com/in/brayanpinzon14/
-[badges]: https://dev.to/envoy_/150-badges-for-github-pnk
-[github]: https://github.com/AndresPinzon14
-[githubstats]: https://skyline.github.com/AndresPinzon14/2022
-[satori]: https://github.com/Satori-MMA
-[unicauca]: https://github.com/MyUnicaucaGit
-[notera]: https://github.com/Notera-App
+[linkedin]:https://www.linkedin.com/in/brayanpinzon14/
+[badges]:https://dev.to/envoy_/150-badges-for-github-pnk/
+[github]:https://github.com/AndresPinzon14/
+[githubstats]:https://skyline.github.com/AndresPinzon14/2022/
+[satori]:https://github.com/Satori-MMA/
+[unicauca]:https://github.com/MyUnicaucaGit/
+[notera]:https://github.com/Notera-App/
