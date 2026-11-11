@@ -100,6 +100,24 @@
 
 <br />
 
+<!-- =========================== OTHER WORK =========================== -->
+<h2 align="center">🛠️ Other Projects</h2>
+
+<table align="center">
+  <tr>
+    <th align="left">Project</th>
+    <th align="center">Tech</th>
+  </tr>
+  <tr>
+    <td><code>mndrn</code> — MNDRN store and administrative panel</td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+  </tr>
+</table>
+
+> 🔒 Private repository of [andrewgeek14](https://github.com/andrewgeek14).
+
+<br />
+
 <!-- =========================== EDUCATION =========================== -->
 <h2 align="center">🎓 Education</h2>
 
