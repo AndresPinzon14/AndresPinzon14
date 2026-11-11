@@ -60,6 +60,46 @@
 
 <br />
 
+<!-- =========================== WORK @ YEAPP =========================== -->
+<h2 align="center">🏢 Work @ Yeapp</h2>
+
+<div align="center">
+  <a href="https://github.com/Yeapp-io" target="_blank">
+    <img src="https://img.shields.io/badge/Yeapp--io-Organization-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Yeapp-io organization" />
+  </a>
+</div>
+
+<table align="center">
+  <tr>
+    <th align="left">Project</th>
+    <th align="center">Tech</th>
+  </tr>
+  <tr>
+    <td><code>Yeapdata-Process-Model</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>
+  </tr>
+  <tr>
+    <td><code>avianca-frontend</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+  </tr>
+  <tr>
+    <td><code>avianca-backend</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+  </tr>
+  <tr>
+    <td><code>asamblea</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+  </tr>
+  <tr>
+    <td><code>matriz_accesos</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+  </tr>
+</table>
+
+> 🔒 Internal private repositories of [Yeapp-io](https://github.com/Yeapp-io) — built and maintained as part of my daily work.
+
+<br />
+
 <!-- =========================== EDUCATION =========================== -->
 <h2 align="center">🎓 Education</h2>
 
@@ -81,7 +121,7 @@
 <br />
 
 <!-- =========================== PROJECTS =========================== -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Personal Projects</h2>
 
 <table align="center">
   <tr>
